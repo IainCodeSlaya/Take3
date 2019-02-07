@@ -1,3 +1,3 @@
 function myFunction() {
-	alert("I am excited to challenge myself in 354 and to see how well I can do in my INF 370 project");
+  alert("I'm so excited doing 85% of the work on my own!");
 }
